@@ -216,7 +216,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-287351649&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-492561783&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -226,7 +226,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-287351649&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-492561783&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -507,7 +507,7 @@ Crash --&gt; [*]
     </item>
     
     <item>
-      <title>Spatiotemporal variations of characteristic repeating earthquake sequences along the Middle America Trench in Mexico</title>
+      <title>Nucleation and Kinematic Rupture of the 2017 Mw 8.2 Tehuantepec Earthquake</title>
       <link>https://ladominguez.github.io/publication/journal-article6/</link>
       <pubDate>Fri, 19 Apr 2019 00:00:00 +0000</pubDate>
       <guid>https://ladominguez.github.io/publication/journal-article6/</guid>
