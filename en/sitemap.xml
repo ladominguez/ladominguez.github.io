@@ -24,6 +24,50 @@
                 href="https://ladominguez.github.io/"
                 />
   </url><url>
+    <loc>https://ladominguez.github.io/publication-type/2/</loc>
+    <lastmod>2021-03-19T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ladominguez.github.io/publication_types/</loc>
+    <lastmod>2021-03-19T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://ladominguez.github.io/es/publication_types/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://ladominguez.github.io/publication_types/"
+                />
+  </url><url>
+    <loc>https://ladominguez.github.io/publication/</loc>
+    <lastmod>2021-03-19T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ladominguez.github.io/tag/source-themes/</loc>
+    <lastmod>2021-03-19T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ladominguez.github.io/tags/</loc>
+    <lastmod>2021-03-19T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://ladominguez.github.io/es/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://ladominguez.github.io/tags/"
+                />
+  </url><url>
+    <loc>https://ladominguez.github.io/publication/journal-article7/</loc>
+    <lastmod>2021-03-19T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://ladominguez.github.io/tag/academic/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -50,20 +94,6 @@
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ladominguez.github.io/tags/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://ladominguez.github.io/es/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://ladominguez.github.io/tags/"
-                />
-  </url><url>
     <loc>https://ladominguez.github.io/post/getting-started/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -80,33 +110,7 @@
     <lastmod>2019-07-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ladominguez.github.io/publication-type/2/</loc>
-    <lastmod>2019-04-19T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://ladominguez.github.io/publication/journal-article6/</loc>
-    <lastmod>2019-04-19T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ladominguez.github.io/publication_types/</loc>
-    <lastmod>2019-04-19T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://ladominguez.github.io/es/publication_types/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://ladominguez.github.io/publication_types/"
-                />
-  </url><url>
-    <loc>https://ladominguez.github.io/publication/</loc>
-    <lastmod>2019-04-19T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ladominguez.github.io/tag/source-themes/</loc>
     <lastmod>2019-04-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
