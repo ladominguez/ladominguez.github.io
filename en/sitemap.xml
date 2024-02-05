@@ -25,11 +25,15 @@
                 />
   </url><url>
     <loc>https://ladominguez.github.io/publication-type/2/</loc>
-    <lastmod>2021-06-28T00:00:00+00:00</lastmod>
+    <lastmod>2022-06-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ladominguez.github.io/publication/journal-article10/</loc>
+    <lastmod>2022-06-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://ladominguez.github.io/publication_types/</loc>
-    <lastmod>2021-06-28T00:00:00+00:00</lastmod>
+    <lastmod>2022-06-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
@@ -43,19 +47,15 @@
                 />
   </url><url>
     <loc>https://ladominguez.github.io/publication/</loc>
-    <lastmod>2021-06-28T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ladominguez.github.io/publication/journal-article9/</loc>
-    <lastmod>2021-06-28T00:00:00+00:00</lastmod>
+    <lastmod>2022-06-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://ladominguez.github.io/tag/source-themes/</loc>
-    <lastmod>2021-06-28T00:00:00+00:00</lastmod>
+    <lastmod>2022-06-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://ladominguez.github.io/tags/</loc>
-    <lastmod>2021-06-28T00:00:00+00:00</lastmod>
+    <lastmod>2022-06-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
@@ -67,6 +67,10 @@
                 hreflang="en-us"
                 href="https://ladominguez.github.io/tags/"
                 />
+  </url><url>
+    <loc>https://ladominguez.github.io/publication/journal-article9/</loc>
+    <lastmod>2021-06-28T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://ladominguez.github.io/publication/journal-article8/</loc>
     <lastmod>2021-04-12T00:00:00+00:00</lastmod>
