@@ -10,6 +10,32 @@
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://ladominguez.github.io/tag/3d-modeling/</loc>
+    <lastmod>2023-03-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ladominguez.github.io/project/manual_3d/</loc>
+    <lastmod>2023-03-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ladominguez.github.io/project/</loc>
+    <lastmod>2023-03-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ladominguez.github.io/tags/</loc>
+    <lastmod>2023-03-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://ladominguez.github.io/es/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://ladominguez.github.io/tags/"
+                />
+  </url><url>
     <loc>https://ladominguez.github.io/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -53,20 +79,6 @@
     <loc>https://ladominguez.github.io/tag/source-themes/</loc>
     <lastmod>2022-06-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ladominguez.github.io/tags/</loc>
-    <lastmod>2022-06-10T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://ladominguez.github.io/es/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://ladominguez.github.io/tags/"
-                />
   </url><url>
     <loc>https://ladominguez.github.io/publication/journal-article9/</loc>
     <lastmod>2021-06-28T00:00:00+00:00</lastmod>
@@ -167,10 +179,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://ladominguez.github.io/project/mase/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ladominguez.github.io/project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
